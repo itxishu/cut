@@ -1,0 +1,18 @@
+{
+  "name": "node_canvas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^4.0.1",
+    "canvas": "^2.6.1",
+    "image-size": "^0.8.3",
+    "qiniu": "^7.3.1"
+  }
+}
